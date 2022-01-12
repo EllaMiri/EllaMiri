@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 ### About me
 - 📚 I'm currently studying to become a front end developer.
 - 💖 I love coding and design.
-- 🔥 Current challenge : 50 projects in 50 days.
