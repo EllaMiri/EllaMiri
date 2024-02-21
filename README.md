@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### About me
-- 📚 I'm currently studying to become a front end developer.
-- 💖 I love coding and design.
+<a href="https://app.daily.dev/ellamiri"><img src="https://api.daily.dev/devcards/v2/7gDTofIDH0OmvYbXKAJ5z.png?r=5e4&type=default" width="356" alt="Ella Larsson's Dev Card"/></a>
